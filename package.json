@@ -11,7 +11,7 @@
   "dependencies": {
     "express": "^4.19.2",
     "cors": "^2.8.5",
-    "sweph": "^2.10.3",
+    "sweph": "2.10.3-b-1",
     "node-fetch": "^3.3.2",
     "dotenv": "^16.4.5"
   }
